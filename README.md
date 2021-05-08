@@ -1,1 +1,1 @@
-# Voting app for Tekton Pipeline examples
+# Ejemplo de Tekton en Cloud Garden
